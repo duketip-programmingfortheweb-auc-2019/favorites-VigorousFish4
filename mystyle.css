@@ -1,0 +1,30 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    /* background-image: url("http://images.pushsquare.com/games/ps4/brawlhalla/cover_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left; */
+    margin-top: 250px;
+}
+.background{
+    position: absolute;
+    z-index: -1;
+    height: 150%;
+    width: 100%;
+    left: 0px;
+    top: -400px;
+}
+h1, h2, h3 {
+    color:rgb(0, 0, 0);
+}
+p {
+    color:rgb(0, 0, 0);
+    font-size: 22px
+}
+ol {
+    font-size: 22px
+}
